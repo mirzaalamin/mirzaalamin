@@ -1,7 +1,7 @@
 
 # Hi, I'm Mirza Alamin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-🔭 I’m currently working as **Full-stack Web Developer**
+🔭 I’m currently working as **Full-Stack Web Developer**
 
 🌱 I’m currently learning **DevOps**
 
